@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\bin\Debug\Map(Batov22is-21).exe.config
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\bin\Debug\Map(Batov22is-21).exe
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\bin\Debug\Map(Batov22is-21).pdb
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\obj\Debug\Map(Batov22is-21).csproj.AssemblyReference.cache
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\obj\Debug\Map(Batov22is-21).csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\obj\Debug\Map_Batov22is_21_.Form1.resources
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\obj\Debug\Map_Batov22is_21_.Properties.Resources.resources
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\obj\Debug\Map(Batov22is-21).csproj.GenerateResource.cache
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\obj\Debug\Map(Batov22is-21).csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\obj\Debug\Map(Batov22is-21).exe
+C:\Users\student\Desktop\batov\Map(Batov22is-21)\obj\Debug\Map(Batov22is-21).pdb
